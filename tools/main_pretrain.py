@@ -245,14 +245,6 @@ def main(args):
             norm_pix_loss=args.norm_pix_loss, 
             img_size=args.input_size,
         )
-    elif args.gear == "aim":
-        import models.aim as models
-        from engines.pretrain_aim import train_one_epoch
-        model_name = args.gear + "_" +args.model
-        model = models.__dict__[model_name](
-            norm_pix_loss=args.norm_pix_loss, 
-            img_size=args.input_size,
-        )
     elif args.gear == "cim":
         import models.cim as models
         from engines.pretrain_cim import train_one_epoch
