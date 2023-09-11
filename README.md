@@ -7,7 +7,7 @@ This repository contains the official PyTorch implementation of the following pa
 > [**Correlational Image Modeling for Self-Supervised Visual Pre-Training**](https://arxiv.org/abs/2206.07706),  
 > Wei Li, Jiahao Xie, Chen Change Loy  
 > In: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023  
-> [[arXiv](https://arxiv.org/abs/2303.12670)][[[Bibtex](https://github.com/weilivision/Correlational-Image-Modeling#citation)]
+> [[arXiv](https://arxiv.org/abs/2303.12670)][[[Bibtex](https://github.com/weivision/Correlational-Image-Modeling/tree/main#citation)]
 
 ![highlights](docs/teaser.jpg)
 
