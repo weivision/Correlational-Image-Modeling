@@ -14,7 +14,7 @@ conda activate cim
 conda install pytorch torchvision cudatoolkit=11.3 -c pytorch -y
 
 
-# Clone MFM
+# Clone CIM
 git clone https://github.com/weilivision/Correlational-Image-Modeling
 cd Correlational-Image-Modeling
 
